@@ -53,7 +53,42 @@ Assista antes do evento para chegar preparado!
 
 ---
 
-> 📋 **Regras do desafio, starter kit, critérios de avaliação e prêmios** serão publicados aqui nos próximos dias. Fique de olho!
+## 📋 Regras do Desafio
+
+### Equipes
+- **1 a 5 pessoas** por equipe (individual também vale)
+- Forme seu time no local ou venha com equipe pronta
+
+### O que pode / O que não pode
+- ✅ **Obrigatório** usar o **Elastic Agent Builder**
+- ✅ Pode combinar com outras ferramentas e libs (LangChain, Streamlit, etc.)
+- ✅ **Dataset StatsBomb é obrigatório**, mas pode combinar com outros datasets
+- ✅ Pode pesquisar e ter ideias antes do evento
+- ❌ **Código só no dia** — nada de repo pronto
+
+### Apresentação Final
+- **5 minutos** por equipe (demo ao vivo + explicação)
+- Mostre: o que construíu, como funciona, e o que usou da stack Elastic
+
+### Critérios de Avaliação
+
+| Critério | O que os jurados vão olhar |
+|----------|---------------------------|
+| 🎨 **Criatividade** | Originalidade da ideia |
+| ⚙️ **Funcionalidade** | Funciona de verdade? |
+| 📊 **Uso dos dados** | Exploração dos dados StatsBomb + Elasticsearch |
+| 🎬 **Apresentação** | Clareza e qualidade da demo |
+
+### Júri
+- **ACE Laboratory** (UFRJ/Cefet-RJ)
+- **Elastic**
+- **ESPM Rio**
+- **Votação popular** dos participantes
+
+### Prêmios
+🏆 Em breve!
+
+> 🧰 **Starter kit** com scripts, exemplos e mappings será publicado em breve neste repo.
 
 ---
 
