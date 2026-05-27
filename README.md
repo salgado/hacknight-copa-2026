@@ -32,7 +32,7 @@ Assista antes do evento para chegar preparado!
 
 ## 🚀 Prepare-se antes do evento
 
-1. **Crie uma conta gratuita** no [Elastic Cloud](https://cloud.elastic.co/) (trial de 14 dias, sem cartão)
+1. **Crie uma conta gratuita** no [Elastic Cloud](https://cloud.elastic.co/) (trial de 14 dias, sem cartão) — use a opção **Serverless** se possível, é o caminho mais simples
 2. **Instale o Python 3.8+** no seu notebook
 3. **Instale o statsbombpy:** `pip install statsbombpy`
 4. 📖 Leia a [documentação do Agent Builder](https://www.elastic.co/docs/explore-analyze/ai-features/elastic-agent-builder)
@@ -95,10 +95,19 @@ Assista antes do evento para chegar preparado!
 
 ## 🛠️ Recursos Úteis
 
-- 📖 [Elastic Agent Builder — Documentação](https://www.elastic.co/docs/explore-analyze/ai-features/elastic-agent-builder)
+**Agent Builder**
+- 📖 [Documentação oficial](https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder)
+- 🧪 [Intro técnica — Elasticsearch Labs](https://www.elastic.co/search-labs/blog/agent-builder-elastic-ga)
+
+**Workflows**
+- 📖 [Documentação oficial](https://www.elastic.co/docs/explore-analyze/workflows)
+- 📂 [Biblioteca de exemplos](https://github.com/elastic/workflows/)
+- 📝 [Blog: Agents + Workflows](https://www.elastic.co/search-labs/blog/elastic-workflows)
+
+**Dados & Elasticsearch**
 - ⚽ [StatsBomb Python — GitHub](https://github.com/statsbomb/statsbombpy)
-- ☁️ [Elastic Cloud — Trial Gratuito](https://cloud.elastic.co/)
 - 📊 [ES|QL Guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/esql.html)
+- ☁️ [Elastic Cloud — Trial Gratuito](https://cloud.elastic.co/)
 
 ---
 
@@ -108,7 +117,7 @@ Assista antes do evento para chegar preparado!
 |---|---|
 | **Elastic Community** | Rio de Janeiro |
 | **ACE Laboratory** | PESC/COPPE/UFRJ & Cefet/RJ — [site](https://ace-lab.github.io/) · [LinkedIn](https://www.linkedin.com/company/ace-laboratory/) |
-| **ESPM Rio** | Parceiro acadêmico e sede do evento |
+| **ESPM Rio** | Parceiro acadêmico e sede do evento — [site](https://www.espm.br/campus-rio/) |
 
 ---
 
