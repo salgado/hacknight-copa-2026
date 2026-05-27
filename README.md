@@ -25,8 +25,8 @@ Assista antes do evento para chegar preparado!
 
 | # | Live | Link |
 |---|------|------|
-| 1 | Introdução ao Elastic Agent Builder | [▶️ Assistir no YouTube](https://youtu.be/UnJ9FiVHp8U) |
-| 2 | Setup + Dados StatsBomb na prática | 🔜 Em breve |
+| 1 | Introdução ao Elastic Agent Builder | 🔜 Em breve |
+| 2 | Setup + Dados StatsBomb na prática | [▶️ Assistir no YouTube](https://youtu.be/UnJ9FiVHp8U) |
 
 ---
 
