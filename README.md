@@ -76,6 +76,7 @@ Assista antes do evento para chegar preparado!
 |----------|---------------------------|
 | 🎨 **Criatividade** | Originalidade da ideia |
 | ⚙️ **Funcionalidade** | Funciona de verdade? |
+| 🤖 **Uso do Agent Builder** | Como explorou o Agent Builder na solução |
 | 📊 **Uso dos dados** | Exploração dos dados StatsBomb + Elasticsearch |
 | 🎬 **Apresentação** | Clareza e qualidade da demo |
 
