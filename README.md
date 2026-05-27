@@ -109,6 +109,10 @@ Assista antes do evento para chegar preparado!
 - 📊 [ES|QL Guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/esql.html)
 - ☁️ [Elastic Cloud — Trial Gratuito](https://cloud.elastic.co/)
 
+**Comunidade & Aprendizado**
+- 🔬 [Elasticsearch Labs](https://www.elastic.co/search-labs) — tutoriais, exemplos e artigos técnicos
+- 💬 [Discuss — Fórum da comunidade Elastic](https://discuss.elastic.co/)
+
 ---
 
 ## 🤝 Organização & Parceiros
