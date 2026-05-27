@@ -34,20 +34,10 @@ Assista antes do evento para chegar preparado!
 
 1. **Crie uma conta gratuita** no [Elastic Cloud](https://cloud.elastic.co/) (trial de 14 dias, sem cartão)
 2. **Instale o Python 3.8+** no seu notebook
-3. **Clone este repo** e rode o setup:
+3. **Instale o statsbombpy:** `pip install statsbombpy`
+4. 📖 Leia a [documentação do Agent Builder](https://www.elastic.co/docs/explore-analyze/ai-features/elastic-agent-builder)
 
-```bash
-git clone https://github.com/salgado/hacknight-copa-2026.git
-cd hacknight-copa-2026/starter-kit
-
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-python scripts/check_setup.py
-```
-
-Se tudo der ✅, você está pronto!
+> 🧰 **Starter kit** com scripts, exemplos e mappings será publicado em breve neste repo.
 
 ---
 
@@ -63,24 +53,7 @@ Se tudo der ✅, você está pronto!
 
 ---
 
-## 📁 O que tem neste repo
-
-```
-├── README.md              ← você está aqui
-└── starter-kit/
-    ├── README.md          ← guia detalhado de setup + dataset + ideias
-    ├── requirements.txt   ← dependências Python
-    ├── .env.example       ← template de credenciais Elastic
-    ├── scripts/
-    │   └── check_setup.py ← verifica se tudo está OK
-    └── examples/
-        ├── 01_explore_data.py      ← explorar dados do StatsBomb
-        ├── 02_ingest_to_es.py      ← ingerir dados no Elasticsearch
-        └── mappings/
-            └── events_mapping.json ← mapping pronto para usar
-```
-
-> 📋 **Regras do desafio, critérios de avaliação e prêmios** serão publicados aqui nos próximos dias. Fique de olho!
+> 📋 **Regras do desafio, starter kit, critérios de avaliação e prêmios** serão publicados aqui nos próximos dias. Fique de olho!
 
 ---
 
