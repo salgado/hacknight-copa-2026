@@ -1,5 +1,6 @@
 .env
 venv/
+.venv/
 __pycache__/
 *.pyc
 .DS_Store
@@ -10,3 +11,5 @@ pagina-regras-rascunho.md
 premios-e-imagem.md
 image-prompts.md
 video-analyses.md
+roteiro-live-agent-builder.md
+slides-live-agent-builder.html
