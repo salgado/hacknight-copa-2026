@@ -97,6 +97,7 @@ Assista antes do evento para chegar preparado!
 
 **Agent Builder**
 - 📖 [Documentação oficial](https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder)
+- 🎬 [Demo interativa — Elastic Demo Gallery](https://www.elastic.co/demo-gallery/elastic-agent-builder)
 - 🧪 [Intro técnica — Elasticsearch Labs](https://www.elastic.co/search-labs/blog/agent-builder-elastic-ga)
 
 **Workflows**
